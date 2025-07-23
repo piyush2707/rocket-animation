@@ -21,8 +21,7 @@ A fun and interactive Rocket Launch Animation project built using HTML, CSS, and
 
 ## 🔗 Live Demo
 
-Coming Soon (After you upload to GitHub Pages)
-
+https://piyush2707.github.io/rocket-animation/
 ---
 
 Made with 💙 for learning and fun.
